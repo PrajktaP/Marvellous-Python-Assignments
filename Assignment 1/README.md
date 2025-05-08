@@ -1,7 +1,4 @@
-# Marvellous-Python-Assignments
-Python class assignments
-
-Assignment 1 programs: 
+# Marvellous-Python-Assignments: Assignment 1 programs: 
 
 1. Write a program which contains one function named as Fun(). That function should display
 "Hello from Fun" on console.
