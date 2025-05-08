@@ -6,7 +6,8 @@ def CheckDivisibilityBy5():
     else:
         return False
 
-print(CheckDivisibilityBy5())
+response = CheckDivisibilityBy5()
+print(response)
 
 
 """
