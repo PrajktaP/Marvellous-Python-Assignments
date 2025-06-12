@@ -47,6 +47,8 @@ Rename all files with first file extension with the second file extention.
 Usage : DirectoryRename.py 'Demo''.txt' '.doc' 
 Demo is name of directory and txt is the extension that we want to search and rename with .doc. 
 After execution this script each txt file gets renamed as .doc. 
+
+> python Assignment19_2.py 'Demo' '.txt' '.doc'
 """
 
 

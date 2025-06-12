@@ -43,6 +43,8 @@ Second directory should be created at run time.
 Usage : DirectoryCopy.py 'Demo' 'Temp' 
 Demo is name of directory which is existing and contains files in it. We have to create new Directory as Temp and 
 copy all files from Demo to Temp. 
+
+> python Assignment19_3.py 'Demo' 'Temp'
 """
 
 """

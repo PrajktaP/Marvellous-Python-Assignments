@@ -50,4 +50,6 @@ Second directory should be created at run time.
 Usage : DirectoryCopyExt.py 'Demo' 'Temp' '.exe' 
 Demo is name of directory which is existing and contains files in it. We have to create new Directory as Temp and 
 copy all files with extension .exe from Demo to Temp.
+
+> python Assignment19_4.py 'Demo' 'Temp2' 'py'
 """

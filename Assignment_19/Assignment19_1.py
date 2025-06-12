@@ -33,4 +33,6 @@ if __name__ == "__main__":
 1. Design automation script which accept directory name and file extension from user. Display all files with that extension. 
 Usage : DirectoryFileSearch.py 'Demo' '.txt' 
 Demo is name of directory and txt is the extension that we want to search. 
+
+> python Assignment19_1.py 'Demo' '.txt'
 """
